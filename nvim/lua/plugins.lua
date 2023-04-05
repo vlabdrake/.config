@@ -25,7 +25,7 @@ return require('packer').startup(function(use)
         run = ':TSUpdate'
   }
 
-  use { 'itsjunetime/rose-pine-vim' }
+  use({ 'rose-pine/neovim', as = 'rose-pine' })
 end)
 
 
