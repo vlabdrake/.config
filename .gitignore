@@ -1,0 +1,9 @@
+*
+!waybar/
+!waybar/*
+!wofi/
+!wofi/*
+!kitty/
+!kitty/*
+!hypr/
+!hypr/*
